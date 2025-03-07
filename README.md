@@ -33,8 +33,8 @@ Provider / Riverpod (Gerenciamento de estado)
 🚀 Como Executar o Projeto
 
 Clone este repositório:
-  git clone https://github.com/seu-usuario/orbiterp.git
-  cd orbiterp
+  git clone https://github.com/seu-usuario/OrbitERP.git
+  cd OrbitERP
 
 Instale as dependências:
   flutter pub get
