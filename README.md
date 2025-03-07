@@ -10,15 +10,6 @@ Um ERP simples e eficiente desenvolvido com Flutter para facilitar a gestão de 
 ✅ Controle financeiro 💰
 ✅ Dashboard com estatísticas 📊
 
-⚙️ Tecnologias Utilizadas
-
-Flutter (Framework principal)
-
-Dart (Linguagem de programação)
-
-Firebase / Supabase (Banco de dados e autenticação)
-
-Provider / Riverpod (Gerenciamento de estado)
 
 🚀 Como Executar o Projeto
 
