@@ -20,16 +20,6 @@ Firebase / Supabase (Banco de dados e autenticação)
 
 Provider / Riverpod (Gerenciamento de estado)
 
-📂 Estrutura do Projeto
-
-/lib
- ├── main.dart            # Arquivo principal
- ├── models/              # Modelos de dados
- ├── screens/             # Telas da aplicação
- ├── services/            # Serviços (API, banco de dados, etc.)
- ├── widgets/             # Componentes reutilizáveis
- ├── utils/               # Funções auxiliares
-
 🚀 Como Executar o Projeto
 
 Clone este repositório:
