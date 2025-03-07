@@ -5,9 +5,13 @@ Um ERP simples e eficiente desenvolvido com Flutter para facilitar a gestão de 
 📌 Funcionalidades
 
 ✅ Cadastro, edição e exclusão de produtos 🛂
+
 ✅ Gerenciamento de clientes 🧑‍💼
+
 ✅ Registro de pedidos e vendas 🛋️
+
 ✅ Controle financeiro 💰
+
 ✅ Dashboard com estatísticas 📊
 
 
